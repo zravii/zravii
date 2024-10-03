@@ -24,7 +24,7 @@ I'm a **Data Scientist** with a passion for using data to solve real-world probl
 
 ## 🌟 Projects I'm Proud Of
 
-- **[Google Earth Predicts School Success]((https://github.com/zravii/Google-Earth-Predicts-School-Success))**: Used **ResNet50** to predict student success by analyzing aerial views of schools and their neighborhoods. The model reached up to **62.09% accuracy** when considering surrounding areas, proving that broader context matters for both education and business planning.
+- **[Google Earth Predicts School Success](https://github.com/zravii/Google-Earth-Predicts-School-Success))**: Used **ResNet50** to predict student success by analyzing aerial views of schools and their neighborhoods. The model reached up to **62.09% accuracy** when considering surrounding areas, proving that broader context matters for both education and business planning.
 - **[IU Student Well-being](https://github.com/zravii/EDA)**: Conducted a survey and analysis on student stress at IU. Through **NLP** and regression modeling, we gained insights that could inform strategic decisions at the university, with **87%** of students identifying academics as the top stress factor.
 - **[DRISHTI: Accessibility for All](https://github.com/zravii/Computer-Vision)**: Spearheaded a team to develop a **CNN-based object detection** system for visually impaired users, achieving **78.5% accuracy** even in low-light conditions. This project addressed a significant societal challenge, focusing on accessibility.
 
