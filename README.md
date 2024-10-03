@@ -18,7 +18,7 @@ I'm a **Data Scientist** with a passion for using data to solve real-world probl
 - **Data Tools**: Pandas, Numpy, SQL, PostgreSQL  
 - **ML & AI**: TensorFlow, Keras, Scikit-learn, Neural Networks  
 - **Visualization**: Tableau, Matplotlib, Seaborn  
-- **Cloud**: AWS (S3, Lambda, Aurora)  
+- **Cloud**: AWS
 
 ---
 
