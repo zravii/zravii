@@ -53,4 +53,9 @@ I'm always on the lookout for cutting-edge advancements in data science and AI, 
 I'm always excited to discuss how data science and machine learning can solve real-world business challenges. If you have a project, opportunity, or idea you'd like to explore, feel free to reach out!
 
 📧 [ravishar@iu.edu](mailto:ravishar@iu.edu)  
-🔗 [LinkedIn](https://linkedin.com/in/ravi-sharma24) this is my github readme, can we animate this somehow? add some icons or something?
+🔗 [LinkedIn](https://linkedin.com/in/ravi-sharma24)
+
+---
+
+### Visitor Counter:
+![](https://komarev.com/ghpvc/?username=zravii&color=green)
