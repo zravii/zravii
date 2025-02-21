@@ -27,10 +27,9 @@ With my background in business, I’m always focused on ensuring that the soluti
 
 - **Languages**: Python, Java, C++, C  
 - **Data Tools**: Pandas, Numpy, SQL, PostgreSQL  
-- **ML & AI**: TensorFlow, Keras, Scikit-learn, Neural Networks  
+- **ML & AI**: TensorFlow, Keras, Scikit-learn, Neural Networks, Clustering & Classification techniques 
 - **Visualization**: Tableau, Matplotlib, Seaborn  
-- **Cloud**: AWS
-- 
+- **Cloud**: AWS, GCP, Azure
 ---
 
 ## 🌍 Currently Exploring
