@@ -4,14 +4,25 @@ I'm a **Data Scientist** with a passion for using data to solve real-world probl
 
 ---
 
+## 🔧 How I Work
+
+With my background in business, I’m always focused on ensuring that the solutions I build don't just solve technical problems but also deliver business value. Whether it’s identifying cost-saving opportunities, improving operational workflows, or driving strategic initiatives, I aim to create meaningful impact through data.
+
+---
+## 🌟 Projects I'm Proud Of  
+- **[IU Student Well-being](https://github.com/zravii/EDA)**: Conducted a survey and analysis on student stress at IU. Through **NLP** and regression modeling, we gained insights that could inform strategic decisions at the university, with **87%** of students identifying academics as the top stress factor.
+- **[International Flight Insights with BigQuery(SQL)](https://github.com/zravii/Google-cloud-BQ)**: Leveraged **Google Cloud BigQuery** and **PySpark** to analyze global air traffic patterns, airline performance, and route efficiency. Developed interactive dashboards in **Google Looker Studio** to visualize high-traffic routes, delays, and airline punctuality, helping optimize international flight operations.
+- **[Google Earth Predicts School Success](https://github.com/zravii/Google-Earth-Predicts-School-Success)**: Used **ResNet50** to predict student success by analyzing aerial views of schools and their neighborhoods. The model reached up to **62.09% accuracy** when considering surrounding areas, proving that broader context matters for both education and business planning.
+- **[DRISHTI: Accessibility for All](https://github.com/zravii/Computer-Vision)**: Spearheaded a team to develop a **CNN-based object detection** system for visually impaired users, achieving **78.5% accuracy** even in low-light conditions. This project addressed a significant societal challenge, focusing on accessibility.
+  
+---
+
 ## 🚀 What I Do
 
 - **Data Science & Machine Learning**: I focus on leveraging data to build predictive models and solutions that drive business outcomes. My technical foundation is strong, but my business background keeps me grounded in the bigger picture.
 - **Business-Driven Problem Solver**: Growing up in a business family, I’ve always been interested in how data and technology can address larger business challenges. Whether it’s enhancing operational efficiency or solving strategic issues, I aim to deliver solutions that make a difference.
 - **Lifelong Learner**: The field of data science is evolving fast, and I’m always eager to learn new tools and techniques. My curiosity drives me to continuously sharpen my skills and stay ahead of the curve.
-
 ---
-
 ## ✨ Key Skills
 
 - **Languages**: Python, Java, C++, C  
@@ -19,21 +30,7 @@ I'm a **Data Scientist** with a passion for using data to solve real-world probl
 - **ML & AI**: TensorFlow, Keras, Scikit-learn, Neural Networks  
 - **Visualization**: Tableau, Matplotlib, Seaborn  
 - **Cloud**: AWS
-
----
-
-## 🌟 Projects I'm Proud Of  
-- **[IU Student Well-being](https://github.com/zravii/EDA)**: Conducted a survey and analysis on student stress at IU. Through **NLP** and regression modeling, we gained insights that could inform strategic decisions at the university, with **87%** of students identifying academics as the top stress factor.
-- **[International Flight Insights with BigQuery(SQL)](https://github.com/zravii/Google-cloud-BQ)**: Leveraged **Google Cloud BigQuery** and **PySpark** to analyze global air traffic patterns, airline performance, and route efficiency. Developed interactive dashboards in **Google Looker Studio** to visualize high-traffic routes, delays, and airline punctuality, helping optimize international flight operations.
-- **[Google Earth Predicts School Success](https://github.com/zravii/Google-Earth-Predicts-School-Success)**: Used **ResNet50** to predict student success by analyzing aerial views of schools and their neighborhoods. The model reached up to **62.09% accuracy** when considering surrounding areas, proving that broader context matters for both education and business planning.
-- **[DRISHTI: Accessibility for All](https://github.com/zravii/Computer-Vision)**: Spearheaded a team to develop a **CNN-based object detection** system for visually impaired users, achieving **78.5% accuracy** even in low-light conditions. This project addressed a significant societal challenge, focusing on accessibility.  
-
----
-
-## 🔧 How I Work
-
-With my background in business, I’m always focused on ensuring that the solutions I build don't just solve technical problems but also deliver business value. Whether it’s identifying cost-saving opportunities, improving operational workflows, or driving strategic initiatives, I aim to create meaningful impact through data.
-
+- 
 ---
 
 ## 🌍 Currently Exploring
